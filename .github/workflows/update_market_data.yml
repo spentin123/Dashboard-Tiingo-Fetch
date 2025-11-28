@@ -1,0 +1,35 @@
+name: Update Market Data
+
+on:
+  schedule:
+    - cron: '0 10 * * *' # Runs at 10:00 UTC daily
+  workflow_dispatch: # Allows manual trigger button
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests pandas
+
+      - name: Run ETL Script
+        env:
+          TIINGO_API_KEY: ${{ secrets.TIINGO_API_KEY }}
+        run: python etl.py
+
+      - name: Commit and Push Data
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/*.json
+          git commit -m "Update financial data" || exit 0
+          git push
