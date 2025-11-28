@@ -5,7 +5,8 @@
     "Description": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 277.55
+    "CurrentPrice": 277.55,
+    "Currency": "USD"
   },
   "Stats": {
     "marketCap": 2317723853440.0,
@@ -13,133 +14,13 @@
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
-    "fiftyTwoWeekLow": null
+    "fiftyTwoWeekLow": null,
+    "roe": null,
+    "eps": null
   },
   "Financials": {
-    "Annual": [
-      {
-        "date": "2025-09-27",
-        "period": "2025",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2024-09-28",
-        "period": "2024",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2023-09-30",
-        "period": "2023",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      }
-    ],
-    "Quarterly": [
-      {
-        "date": "2025-09-27",
-        "period": "2025 Q4",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2025-06-28",
-        "period": "2025 Q3",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2025-03-29",
-        "period": "2025 Q2",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2024-12-28",
-        "period": "2025 Q1",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2024-09-28",
-        "period": "2024 Q4",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2024-06-29",
-        "period": "2024 Q3",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2024-03-30",
-        "period": "2024 Q2",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2023-12-30",
-        "period": "2024 Q1",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2023-09-30",
-        "period": "2023 Q4",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2023-07-01",
-        "period": "2023 Q3",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2023-04-01",
-        "period": "2023 Q2",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      },
-      {
-        "date": "2022-12-31",
-        "period": "2023 Q1",
-        "revenue": 0,
-        "netIncome": 0,
-        "eps": 0,
-        "freeCashFlow": 0
-      }
-    ]
+    "Annual": [],
+    "Quarterly": []
   },
   "History": [
     {
