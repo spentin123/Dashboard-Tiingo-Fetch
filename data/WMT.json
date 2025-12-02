@@ -5,12 +5,12 @@
     "Description": "Walmart Inc.\u00a0is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 240 million customers and members visit more than 10,500 stores and numerous eCommerce websites in 20 countries. With fiscal year 2023 revenue of $611 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 110.51,
+    "CurrentPrice": 111.53,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 416282672397.69,
-    "pe": 46.4238510536,
+    "marketCap": 415875536707.14,
+    "pe": 46.3784472741,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-01",
-      "price": 50.2730038603
-    },
     {
       "date": "2023-12-04",
       "price": 50.2599747029
@@ -2022,6 +2018,10 @@
     {
       "date": "2025-11-28",
       "price": 110.51
+    },
+    {
+      "date": "2025-12-01",
+      "price": 111.53
     }
   ]
 }

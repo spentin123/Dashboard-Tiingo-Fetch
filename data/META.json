@@ -5,7 +5,7 @@
     "Description": "Facebook, Inc. (Facebook) is engaged in building products to create utility for users, developers, and advertisers. People use Facebook to stay connected with their friends and family, to discover what is going on in the world around them, and to share and express what matters to them to the people they care about. Developers can use the Facebook Platform to build applications and Websites that integrate with Facebook to reach its global network of users and to build personalized and social products. Advertisers can engage with more than 900 million monthly active users (MAUs) on Facebook or subsets of its users based on information they have chosen to share with the Company, such as their age, location, gender, or interests. In September 2013, Mail.Ru Group Limited sold its remaining shares in Facebook Inc. Effective September 25, 2013, Facebook Inc acquired Mobile Technologies, a developer of online applications. In October 2013, Facebook Inc acquired Onavo Inc.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 647.95,
+    "CurrentPrice": 640.87,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-01",
-      "price": 322.8466189067
-    },
     {
       "date": "2023-12-04",
       "price": 318.0757803784
@@ -2022,6 +2018,10 @@
     {
       "date": "2025-11-28",
       "price": 647.95
+    },
+    {
+      "date": "2025-12-01",
+      "price": 640.87
     }
   ]
 }
