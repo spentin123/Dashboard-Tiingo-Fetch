@@ -5,7 +5,7 @@
     "Description": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components. Tesla owns its sales and service network. The Company is engaged in commercially producing a federally-compliant electric vehicle, the Tesla Roadster. addition to developing its Model S and future vehicle manufacturing capabilities at the Tesla Factory, the Company is designing, developing and manufacturing lithium-ion battery packs, electric motors, gearboxes and components both for its vehicles and for its original equipment manufacturer customers. These activities occur at its electric powertrain manufacturing facility in Palo Alto, California and at the Tesla Factory. The Company provides services for the development of electric powertrain components and sells electric powertrain components to other automotive manufacturers.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 454.53,
+    "CurrentPrice": 455.0,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-05",
-      "price": 238.72
-    },
     {
       "date": "2023-12-06",
       "price": 239.37
@@ -2030,6 +2026,10 @@
     {
       "date": "2025-12-04",
       "price": 454.53
+    },
+    {
+      "date": "2025-12-05",
+      "price": 455.0
     }
   ]
 }
