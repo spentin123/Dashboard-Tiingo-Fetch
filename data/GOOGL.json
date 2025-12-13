@@ -5,7 +5,7 @@
     "Description": "Google Inc. (Google) is a global technology company. The Company's business is primarily focused around key areas, such as search, advertising, operating systems and platforms, enterprise and hardware products. The Company generates revenue primarily by delivering online advertising. The Company also generates revenues from Motorola by selling hardware products. The Company provides its products and services in more than 100 languages and in more than 50 countries, regions, and territories. Effective May 16, 2014, Google Inc acquired Quest Visual Inc. Effective May 20, 2014, Google Inc acquired Enterproid Inc, doing business as Divide. In June 2014, Google Inc acquired mDialog Corp. Effective June 25, 2014, Google Inc acquired Appurify Inc, a San Francisco-based developer of mobile bugging application software.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 312.43,
+    "CurrentPrice": 309.29,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-12",
-      "price": 131.5181289001
-    },
     {
       "date": "2023-12-13",
       "price": 131.5677508926
@@ -2030,6 +2026,10 @@
     {
       "date": "2025-12-11",
       "price": 312.43
+    },
+    {
+      "date": "2025-12-12",
+      "price": 309.29
     }
   ]
 }
