@@ -5,12 +5,12 @@
     "Description": "Microsoft (Nasdaq \"MSFT\" @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI\u202favailable broadly\u202fand doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. SOURCE Microsoft Corp.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 478.53,
+    "CurrentPrice": 474.82,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 1857089655046.72,
-    "pe": 26.6100625463,
+    "marketCap": 1824871562159.68,
+    "pe": 26.1484125315,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-15",
-      "price": 365.2994434471
-    },
     {
       "date": "2023-12-18",
       "price": 367.1913187511
@@ -2022,6 +2018,10 @@
     {
       "date": "2025-12-12",
       "price": 478.53
+    },
+    {
+      "date": "2025-12-15",
+      "price": 474.82
     }
   ]
 }
