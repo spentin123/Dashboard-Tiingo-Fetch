@@ -5,12 +5,12 @@
     "Description": "Visa Inc. is the world\u2019s leader in digital payments. Our mission is to connect the world through the most innovative, reliable and secure payment network - enabling individuals, businesses and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company\u2019s relentless focus on innovation is a catalyst for the rapid growth of digital commerce on any device, for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 349.25,
+    "CurrentPrice": 352.09,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 425250308336.3,
-    "pe": 28.4315242586,
+    "marketCap": 426847122621.967,
+    "pe": 28.5382845906,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2023-12-22",
-      "price": 254.6577747379
-    },
     {
       "date": "2023-12-26",
       "price": 255.3771191466
@@ -2022,6 +2018,10 @@
     {
       "date": "2025-12-19",
       "price": 349.25
+    },
+    {
+      "date": "2025-12-22",
+      "price": 352.09
     }
   ]
 }
