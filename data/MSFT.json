@@ -2,10 +2,10 @@
   "Profile": {
     "Symbol": "MSFT",
     "Name": "Microsoft Corporation",
-    "Description": "Microsoft (Nasdaq \"MSFT\" @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI\u202favailable broadly\u202fand doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. SOURCE Microsoft Corp.",
+    "Description": "Microsoft (Nasdaq \"MSFT\" @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. SOURCE Microsoft Corp.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 454.52,
+    "CurrentPrice": 444.11,
     "Currency": "USD"
   },
   "Stats": {
@@ -2026,6 +2026,10 @@
     {
       "date": "2026-01-20",
       "price": 454.52
+    },
+    {
+      "date": "2026-01-21",
+      "price": 444.11
     }
   ]
 }
