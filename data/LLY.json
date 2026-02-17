@@ -2,7 +2,7 @@
   "Profile": {
     "Symbol": "LLY",
     "Name": "Lilly(Eli) & Company",
-    "Description": "Lilly is a medicine company turning science into healing\u00a0to make life better for people around the world. We've been pioneering life-changing discoveries for nearly 150 years, and today our medicines help tens of millions of people across the globe. Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing new discoveries to solve some of the world's most significant health challenges: redefining diabetes care; treating obesity and curtailing its most devastating long-term effects; advancing the fight against Alzheimer's disease; providing solutions to some of the most debilitating immune system disorders; and transforming the most difficult-to-treat cancers into manageable diseases. With each step toward a healthier world, we're motivated by one thing: making life better for millions more people. That includes delivering innovative clinical trials that reflect the diversity of our world and working to ensure our medicines are accessible and affordable. F-LLY About Orna Therapeutics Orna Therapeutics is dedicated to designing and delivering a new class of fully engineered circular RNA (oRNA \u00ae ) therapeutics to unlock the potential of RNA medicine to treat diseases anywhere in the body. Orna's oRNA transcripts have advantages over traditional mRNA approaches, including simplified production, improved formulation into lipid nanoparticles, and superior protein expression. Its industry-leading LNP-based delivery systems and comprehensive editing programs position Orna to advance novel RNA medicines with vast potential to transform patient care.",
+    "Description": "Lilly is a medicine company turning science into healing\u00a0to make life better for people around the world. We've been pioneering life-changing discoveries for nearly 150 years, and today our medicines help tens of millions of people across the globe. Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing new discoveries to solve some of the world's most significant health challenges: redefining diabetes care; treating obesity and curtailing its most devastating long-term effects; advancing the fight against Alzheimer's disease; providing solutions to some of the most debilitating immune system disorders; and transforming the most difficult-to-treat cancers into manageable diseases. With each step toward a healthier world, we're motivated by one thing: making life better for millions more people. That includes delivering innovative clinical trials that reflect the diversity of our world and working to ensure our medicines are accessible and affordable.",
     "Sector": null,
     "Industry": null,
     "CurrentPrice": 1040.0,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-02-16",
-      "price": 771.3416515784
-    },
     {
       "date": "2024-02-20",
       "price": 745.303470874
