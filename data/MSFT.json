@@ -9,8 +9,8 @@
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 1835813101172.88,
-    "pe": 27.2177956852,
+    "marketCap": 1871892751189.84,
+    "pe": 27.7527131787,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-03-01",
-      "price": 409.2289061816
-    },
     {
       "date": "2024-03-04",
       "price": 408.657660055
