@@ -5,7 +5,7 @@
     "Description": "Microsoft (Nasdaq \"MSFT\") develops cloud and AI solutions that empower individuals and organizations. Microsoft Dragon Copilot for Healthcare streamlines clinical workflows, reduces administrative burden, and connects seamlessly with the tools providers use every day.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 404.88,
+    "CurrentPrice": 401.86,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-03-12",
-      "price": 409.0122266163
-    },
     {
       "date": "2024-03-13",
       "price": 408.8349433357
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-03-11",
       "price": 404.88
+    },
+    {
+      "date": "2026-03-12",
+      "price": 401.86
     }
   ]
 }
