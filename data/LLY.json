@@ -5,7 +5,7 @@
     "Description": "Lilly is a medicine company turning science into healing to make life better for people around the world. We've been pioneering life-changing discoveries for nearly 150 years, and today our medicines help tens of millions of people across the globe. Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing new discoveries to solve some of the world's most significant health challenges: redefining diabetes care; treating obesity and curtailing its most devastating long-term effects; advancing the fight against Alzheimer's disease; providing solutions to some of the most debilitating immune system disorders; and transforming the most difficult-to-treat cancers into manageable diseases. With each step toward a healthier world, we're motivated by one thing: making life better for millions more people. That includes delivering innovative clinical trials that reflect the diversity of our world and working to ensure our medicines are accessible and affordable.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 988.87,
+    "CurrentPrice": 987.05,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-05-06",
-      "price": 756.1724387286
-    },
     {
       "date": "2024-05-07",
       "price": 767.1104472139
@@ -197,7 +193,7 @@
     },
     {
       "date": "2024-07-09",
-      "price": 921.2390234447
+      "price": 921.2390234446
     },
     {
       "date": "2024-07-10",
@@ -813,7 +809,7 @@
     },
     {
       "date": "2025-02-19",
-      "price": 860.7957731674
+      "price": 860.7957731675
     },
     {
       "date": "2025-02-20",
@@ -1081,7 +1077,7 @@
     },
     {
       "date": "2025-05-27",
-      "price": 721.4147523956
+      "price": 721.4147523957
     },
     {
       "date": "2025-05-28",
@@ -1477,7 +1473,7 @@
     },
     {
       "date": "2025-10-16",
-      "price": 816.8242303432
+      "price": 816.8242303431
     },
     {
       "date": "2025-10-17",
@@ -1697,7 +1693,7 @@
     },
     {
       "date": "2026-01-06",
-      "price": 1062.2729498046
+      "price": 1062.2729498047
     },
     {
       "date": "2026-01-07",
@@ -1765,7 +1761,7 @@
     },
     {
       "date": "2026-01-30",
-      "price": 1035.4276060015
+      "price": 1035.4276060016
     },
     {
       "date": "2026-02-02",
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-05-05",
       "price": 988.87
+    },
+    {
+      "date": "2026-05-06",
+      "price": 987.05
     }
   ]
 }

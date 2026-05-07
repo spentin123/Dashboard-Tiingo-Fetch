@@ -5,11 +5,11 @@
     "Description": "Visa Inc. is the world\u2019s leader in digital payments. Our mission is to connect the world through the most innovative, reliable and secure payment network - enabling individuals, businesses and economies to thrive. Our advanced global processing network, VisaNet, provides secure and reliable payments around the world, and is capable of handling more than 65,000 transaction messages a second. The company\u2019s relentless focus on innovation is a catalyst for the rapid growth of digital commerce on any device, for everyone, everywhere. As the world moves from analog to digital, Visa is applying our brand, products, people, network and scale to reshape the future of commerce.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 322.03,
+    "CurrentPrice": 318.8,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 478995990363.673,
+    "marketCap": 478995990363.67303,
     "pe": 30.3411661724,
     "dividendYield": null,
     "beta": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-05-06",
-      "price": 268.6480703888
-    },
     {
       "date": "2024-05-07",
       "price": 272.382167234
@@ -417,7 +413,7 @@
     },
     {
       "date": "2024-09-25",
-      "price": 266.6793332969
+      "price": 266.6793332968
     },
     {
       "date": "2024-09-26",
@@ -825,7 +821,7 @@
     },
     {
       "date": "2025-02-24",
-      "price": 347.2734605075
+      "price": 347.2734605074
     },
     {
       "date": "2025-02-25",
@@ -917,7 +913,7 @@
     },
     {
       "date": "2025-03-27",
-      "price": 347.2734605075
+      "price": 347.2734605074
     },
     {
       "date": "2025-03-28",
@@ -1029,7 +1025,7 @@
     },
     {
       "date": "2025-05-07",
-      "price": 347.2635344381
+      "price": 347.2635344382
     },
     {
       "date": "2025-05-08",
@@ -1765,7 +1761,7 @@
     },
     {
       "date": "2026-01-30",
-      "price": 321.1742826298
+      "price": 321.1742826299
     },
     {
       "date": "2026-02-02",
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-05-05",
       "price": 322.03
+    },
+    {
+      "date": "2026-05-06",
+      "price": 318.8
     }
   ]
 }
