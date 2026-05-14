@@ -5,7 +5,7 @@
     "Description": "Lilly is a medicine company turning science into healing to make life better for people around the world. We've been pioneering life-changing discoveries for 150 years, and today our medicines help tens of millions of people across the globe. Harnessing the power of biotechnology, chemistry and genetic medicine, our scientists are urgently advancing new discoveries to solve some of the world's most significant health challenges: redefining diabetes care; treating obesity and curtailing its most devastating long-term effects; advancing the fight against Alzheimer's disease; providing solutions to some of the most debilitating immune system disorders; and transforming the most difficult-to-treat cancers into manageable diseases. With each step toward a healthier world, we're motivated by one thing: making life better for millions more people. That includes delivering innovative clinical trials that reflect the diversity of our world and working to ensure our medicines are accessible and affordable.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 989.87,
+    "CurrentPrice": 1015.75,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-05-13",
-      "price": 747.3155121102
-    },
     {
       "date": "2024-05-14",
       "price": 753.5094429748
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-05-12",
       "price": 989.87
+    },
+    {
+      "date": "2026-05-13",
+      "price": 1015.75
     }
   ]
 }
