@@ -9,8 +9,8 @@
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 419848411564.75,
-    "pe": 37.1580150071,
+    "marketCap": 419066671344.18,
+    "pe": 37.0888283339,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -2017,6 +2017,10 @@
     },
     {
       "date": "2026-06-18",
+      "price": 117.18
+    },
+    {
+      "date": "2026-06-22",
       "price": 117.18
     }
   ]
