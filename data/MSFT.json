@@ -5,7 +5,7 @@
     "Description": "Microsoft (Nasdaq \"MSFT\" @microsoft) creates platforms and tools powered by AI to deliver innovative solutions that meet the evolving needs of our customers. The technology company is committed to making AI available broadly and doing so responsibly, with a mission to empower every person and every organization on the planet to achieve more. SOURCE Mayo Clinic",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 373.94,
+    "CurrentPrice": 365.46,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-06-24",
-      "price": 440.737975738
-    },
     {
       "date": "2024-06-25",
       "price": 443.9671860054
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-06-23",
       "price": 373.94
+    },
+    {
+      "date": "2026-06-24",
+      "price": 365.46
     }
   ]
 }
