@@ -5,12 +5,12 @@
     "Description": "Apple Inc. (Apple) designs, manufactures and markets mobile communication and media devices, personal computers, and portable digital music players, and a variety of related software, services, peripherals, networking solutions, and third-party digital content and applications. The Company's products and services include iPhone, iPad, Mac, iPod, Apple TV, a portfolio of consumer and professional software applications, the iOS and OS X operating systems, iCloud, and a variety of accessory, service and support offerings. The Company also delivers digital content and applications through the iTunes Store, App StoreSM, iBookstoreSM, and Mac App Store. The Company distributes its products worldwide through its retail stores, online stores, and direct sales force, as well as through third-party cellular network carriers, wholesalers, retailers, and value-added resellers. In February 2012, the Company acquired app-search engine Chomp.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 283.78,
+    "CurrentPrice": 281.74,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 2999682742140.0,
-    "pe": 31.8029149621,
+    "marketCap": 3068982865620.0,
+    "pe": 32.537641306,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -2018,6 +2018,10 @@
     {
       "date": "2026-06-26",
       "price": 283.78
+    },
+    {
+      "date": "2026-06-29",
+      "price": 281.74
     }
   ]
 }
