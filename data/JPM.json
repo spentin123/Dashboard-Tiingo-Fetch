@@ -5,12 +5,12 @@
     "Description": "JPMorgan Chase & Co. is a leading financial services firm based in the United States of America (\"U.S.\"), with operations worldwide. JPMorgan Chase had $4.6 trillion in assets and $360 billion in stockholders' equity as of September 30, 2025. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers in the U.S., and many of the world's most prominent corporate, institutional and government clients globally.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 351.55,
+    "CurrentPrice": 351.58,
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 436823686325.31995,
-    "pe": 9.4846205994,
+    "marketCap": 427764591947.42,
+    "pe": 9.2879232228,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-08-21",
-      "price": 205.9299251009
-    },
     {
       "date": "2024-08-22",
       "price": 207.8779108789
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-08-20",
       "price": 351.55
+    },
+    {
+      "date": "2026-08-21",
+      "price": 351.58
     }
   ]
 }
