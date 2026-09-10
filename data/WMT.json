@@ -5,7 +5,7 @@
     "Description": "Walmart Inc.\u00a0is a people-led, tech-powered omnichannel retailer helping people save money and live better - anytime and anywhere - in stores, online, and through their mobile devices. Each week, approximately 240 million customers and members visit more than 10,500 stores and numerous eCommerce websites in 20 countries. With fiscal year 2023 revenue of $611 billion, Walmart employs approximately 2.1 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy, and employment opportunity.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 106.05,
+    "CurrentPrice": 105.83,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-09-09",
-      "price": 75.954921795
-    },
     {
       "date": "2024-09-10",
       "price": 77.3985956382
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-09-08",
       "price": 106.05
+    },
+    {
+      "date": "2026-09-09",
+      "price": 105.83
     }
   ]
 }
