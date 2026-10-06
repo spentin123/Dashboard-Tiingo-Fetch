@@ -9,8 +9,8 @@
     "Currency": "USD"
   },
   "Stats": {
-    "marketCap": 415279585511.7,
-    "pe": 8.3918600314,
+    "marketCap": 421672973112.3,
+    "pe": 8.5210559171,
     "dividendYield": null,
     "beta": null,
     "fiftyTwoWeekHigh": null,
@@ -2017,6 +2017,10 @@
     },
     {
       "date": "2026-10-02",
+      "price": 332.38
+    },
+    {
+      "date": "2026-10-05",
       "price": 332.38
     }
   ]
