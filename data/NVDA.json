@@ -5,7 +5,7 @@
     "Description": "NVIDIA is the world leader in accelerated computing.",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 239.24,
+    "CurrentPrice": 237.47,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-10-07",
-      "price": 127.3785527109
-    },
     {
       "date": "2024-10-08",
       "price": 132.534731207
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-10-06",
       "price": 239.24
+    },
+    {
+      "date": "2026-10-07",
+      "price": 237.47
     }
   ]
 }
