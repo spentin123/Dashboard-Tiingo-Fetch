@@ -5,7 +5,7 @@
     "Description": "The complaint alleges that management failed to disclose that Gemini 3.5 Pro was delivering disappointing training results and that, as a result, its launch would be significantly delayed, leaving the Company's positive statements materially misleading or without a reasonable basis. Plaintiffs further contend the June timeline statements carried no meaningful cautionary language. The action asserts claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 in the U.S. District Court for the Northern District of California. \"Alphabet told the market to expect Gemini 3.5 Pro in June, yet the complaint alleges disappointing training results undercut that timeline. Companies that make specific promises to investors about future performance have an obligation to disclose known risks to those projections.\" -- Joseph E. Levi, Esq. Submit your information here or call (212) 363-7500. WHY LEVI & KORSINSKY \u2014 Ranked in ISS Securities Class Action Services' Top 50 Report for seven consecutive years, Levi & Korsinsky, LLP is a nationally recognized leader in shareholder rights litigation. With a team of over 70 professionals, the firm has recovered hundreds of millions of dollars for investors. Investors who suffered losses have until December 1, 2026 to seek appointment as lead plaintiff. Frequently Asked Questions About the Alphabet Lawsuit Q: What specific misstatements does the Alphabet lawsuit allege ? Q: What specific misstatements does the Alphabet lawsuit allege ? A: The complaint alleges Alphabet Inc. made materially false or misleading statements regarding the development progress and expected June 2026 launch timeline of its flagship AI model, Gemini 3.5 Pro, during the Class Period. When Bloomberg reported on July 16, 2026 that the model was months behind schedule and that recent training data updates had produced disappointing results, the stock price declined sharply. Q: When did Alphabet allegedly mislead investors? A: The Class Period runs from May 19, 2026 to July 16, 2026. The complaint alleges that corrective disclosures revealed information that caused a significant stock decline. Q: How much did Alphabet stock drop? A: Shares fell approximately 4.4%, a decline of $16.46 per share for Class A stock (GOOGL) and $16.39 per share for Class C stock (GOOG), after Bloomberg reported on July 16, 2026 that Gemini 3.5 Pro was months behind schedule and that training data updates had produced disappointing results. Investors who purchased shares during the Class Period at allegedly artificially inflated prices and suffered losses may be eligible to seek compensation. Q: What do Alphabet investors need to do right now? A: Investors may gather brokerage records showing purchase dates, share quantities, and prices paid. Submit your information for a no-cost, no-obligation evaluation of your potential recovery. No immediate action is required to remain eligible as an absent class member. Q: What happens after I contact Levi & Korsinsky? A: An attorney will review your trading history at no cost and provide an initial assessment of your potential eligibility. Q: What if I already sold my Alphabet shares -- can I still recover losses? A: Yes. Eligibility is based on when you purchased, not whether you still hold the shares. Investors who bought during the Class Period and sold at a loss may still be eligible to participate. Q: Do I need to go to court or give testimony? A: No. The overwhelming majority of class members never appear in court or give depositions. If there is a settlement or recovery, eligible class members generally submit a claim form to seek their portion. Q: What if I live outside the United States? A: U.S. securities class actions generally cover purchases on U.S. exchanges regardless of the investor's country of residence. CONTACT:\\ Levi & Korsinsky, LLP\\ Joseph E. Levi, Esq.\\ Ed Korsinsky, Esq.\\ 33 Whitehall Street, 27th Floor\\ New York, NY 10004\\ [email\u00a0protected] \\ Tel: (212) 363-7500\\ Fax: (212) 363-7171 Attorney Advertising. Prior results do not guarantee similar outcomes. SOURCE Levi & Korsinsky, LLP",
     "Sector": null,
     "Industry": null,
-    "CurrentPrice": 350.5,
+    "CurrentPrice": 348.29,
     "Currency": "USD"
   },
   "Stats": {
@@ -23,10 +23,6 @@
     "Quarterly": []
   },
   "History": [
-    {
-      "date": "2024-10-08",
-      "price": 163.2263189759
-    },
     {
       "date": "2024-10-09",
       "price": 160.7240052892
@@ -2026,6 +2022,10 @@
     {
       "date": "2026-10-07",
       "price": 350.5
+    },
+    {
+      "date": "2026-10-08",
+      "price": 348.29
     }
   ]
 }
